@@ -26,7 +26,7 @@ SECRET_KEY = SECRET_KEY = os.getenv('DJANGO_SECRET_KEY', 'fallback_secret_key')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['qr-code-generator-5otl.onrender.com', 'localhost', '127.0.0.1']
+ALLOWED_HOSTS = ['qr-code-generator-7ko2.onrender.com', 'localhost', '127.0.0.1']
 
 
 # Application definition
